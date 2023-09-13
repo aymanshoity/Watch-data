@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "TechPro 2000",
+      "price": "$249.99"
+    },
+    {
+      "id": 2,
+      "name": "FitLife Pro 3",
+      "price": "$149.99"
+    },
+    {
+      "id": 3,
+      "name": "GigaFit Ultra X",
+      "price": "$299.99"
+    },
+    {
+      "id": 4,
+      "name": "HealthWatch Pro Max",
+      "price": "$199.99"
+    },
+    {
+      "id": 5,
+      "name": "UrbanTech Elite",
+      "price": "$129.99"
+    }
+  ]
+  
